@@ -195,16 +195,6 @@ System Design
 
 ---
 
-# 📌 How to Use This Repository
-
-1. Start with **00-React-Native-CheatSheet.md**
-2. Follow the guides from **01 → 40**
-3. Build small projects while learning
-4. Read the official documentation alongside these notes
-5. Complete the sample applications
-   
----
-
 # 📂 Real Project Architecture
 
 ```
