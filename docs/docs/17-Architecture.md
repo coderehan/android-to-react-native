@@ -11,16 +11,6 @@ A good architecture makes an application:
 - Easy to scale
 - Easy to understand
 
-Large companies like:
-
-- Google
-- Flipkart
-- Amazon
-- Uber
-- Netflix
-
-all follow well-defined architectures.
-
 ---
 
 # Android
